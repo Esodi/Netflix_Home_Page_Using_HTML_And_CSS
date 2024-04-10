@@ -46,8 +46,8 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use the 
 
 If you have any questions, suggestions, or feedback, you can reach out to the project maintainer:
 
-- Your Name : [Alok Sharma](https://linkedin.com/in/alok-sharma2002-)
-- Email: [sharmaalok02gwl@gmail.com](mailto:sharmaalok02gwl@gmail.com)
+- Your Name : [Method Mkoma](https://linkedin.com/in/alok-sharma2002-)
+- Email: [gershommethod02@gmail.com](mailto:sharmaalok02gwl@gmail.com)
 
 ---
 
